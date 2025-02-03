@@ -1,4 +1,4 @@
-#created by Rakshit Jain and Himank Jain XI A
+#created by Rakshit Jain XI A
 # Step 1: Initialize an empty dictionary to store the linked data
 linked_data = {}
 
